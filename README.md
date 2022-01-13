@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alaminislam22&show_icons=true&locale=en&layout=compact" alt="alaminislam22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminislam22&" alt="alaminislam22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminislam2&" alt="alaminislam22" /></p>

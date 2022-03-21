@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Al-Amin Islam.</h1>
+<h1 align="center">Hi 👋, I'm Programmer Alamin.</h1>
 <h3 align="center">MERN Stack Web Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminislam22&label=Profile%20views&color=0e75b6&style=flat" alt="alaminislam2" /> </p>
 
-- 🔭 I’m currently working on **Alamin Islam**
+- 🔭 I’m currently working on **Programmer Alamin**
 
-- 👯 I’m looking to collaborate on **Al-Amin Project**
+- 👯 I’m looking to collaborate on **Programmeer Alamin Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
